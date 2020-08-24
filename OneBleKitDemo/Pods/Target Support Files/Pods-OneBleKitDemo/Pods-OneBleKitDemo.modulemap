@@ -1,0 +1,6 @@
+framework module Pods_OneBleKitDemo {
+  umbrella header "Pods-OneBleKitDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
